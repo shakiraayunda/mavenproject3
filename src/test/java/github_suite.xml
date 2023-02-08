@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="github_suite">
+    <test name="AUT Test1">
+        <classes>
+            <class name="github_test"/>  
+        </classes>
+    </test>
+</suite>
